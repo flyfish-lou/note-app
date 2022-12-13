@@ -1,8 +1,6 @@
 # note-app
 
-跟随大佬写的Android Studio 的[简单APP][APP]
-
-
+跟随大佬写的Android Studio 的[简单APP][APP] ，做小项目同时学习一下Android Studio的简单使用
 
 ---
 
